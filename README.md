@@ -15,21 +15,23 @@ The Transaction simulator allows admin users to create their own local network a
 
 Technologies: 
 
+  Solidity: 
+  I have built out the back end using Solidity, building 2 ERC-20 smart contracts (one for $STB and one for $UDST clone )
+  both with basic Mint, Burn, Transfer, and info Functions,
 
-I have built out the back end using Solidity, building 2 ERC-20 smart contracts (one for $STB and one for $UDST clone )
+  Blockchain + Web3: 
+  the contracts are being hosted on a local ETH Blockchain Network (Ganache), with plans to host them on a non-local test network once fully built out
 
-both with basic Mint, Burn, Transfer, and info Functions, 
-the contracts are being hosted on a local ETH Blockchain Network (Ganache), with plans to host them on a non-local test network once fully built out
+  Node.JS:
+  I have unit tests built in Node.JS testing all basic smart contract functions and event emitters. 
 
-I have unit tests built in Node.JS testing all basic smart contract functions and event emitters. 
-
-I am pulling real-time currency info using google finance and extracting the pricing elements, its high quality currency data that is updated every 3 Mins, and I'm able to pull it for free whenever I would like, this is tested in my test scripts
-
+  I am pulling real-time currency info using google finance and extracting the pricing elements, its high quality currency data that is updated every 3 Mins, and I'm able to pull it for free whenever I        would   like, this is tested in my test scripts
 
 
-Outside of the Backend, I have fully designed my front end in Figma, and have Built out a prototype on how the app will function and look, 
+  Figma: 
+  Outside of the Backend, I have fully designed my front end in Figma, and have Built out a prototype on how the app will function and look, 
 
-I have a video explainer attached to this message as well as a link to the prototype for you to mess with it if you would like. 
+  I have a video explainer attached to this message as well as a link to the prototype for you to mess with it if you would like. 
 —---------------------------------------------------------
 
 Video Explainer: 
