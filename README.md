@@ -42,3 +42,5 @@ Figma Prototype Link:
 https://www.figma.com/proto/QPJhqMeUwiqhms1ELuaqHx/Border-Dollar-project-test-submission?page-id=0%3A1&node-id=92-105&node-type=CANVAS&viewport=404%2C407%2C0.09&t=9TQ2QwGEPsXFpR42-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=68%3A144
 
 —---------------------------------------------------------
+
+I have the truffle config files and the unit tests here, needs a running ganache cli interface in order for the contracts to funcction
