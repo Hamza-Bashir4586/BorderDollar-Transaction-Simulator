@@ -1,5 +1,5 @@
 # BorderDollar-Transaction-Simulator
-The Border Dollar Transaction Simulator, Is a project I made when speaking with startup, BorderDollar simply as a test project to show them, it has no real aviliation with them, it is a project that aims to simulate cross border payments using Web3 technologies, Stable coin, and the Blockchain, to allow users to do transactions in a decentralized and accessible environment without having to worry about the volatility of normal crypto currencies
+The Border Dollar Transaction Simulator, Is a project I made when speaking with startup, BorderDollar simply as a test project to show them, it has no real affiliation with them, it is a project that aims to simulate cross border payments using Web3 technologies, Stable coin, and the Blockchain, to allow users to do transactions in a decentralized and accessible environment without having to worry about the volatility of normal crypto currencies
 
 3 main goals of the Project
 
